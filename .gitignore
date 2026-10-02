@@ -1,0 +1,9 @@
+# makepkg 构建产物
+/src/
+/pkg/
+*.pkg.tar
+*.pkg.tar.*
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.zst
